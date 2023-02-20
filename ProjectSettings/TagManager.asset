@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ground
+  - water
   layers:
   - Default
   - TransparentFX
@@ -48,18 +49,18 @@ TagManager:
   - name: background
     uniqueID: 4251885747
     locked: 0
-  - name: water
-    uniqueID: 224561557
-    locked: 0
   - name: tileset
     uniqueID: 2174831665
-    locked: 0
-  - name: waterBrick
-    uniqueID: 1408495821
     locked: 0
   - name: interactable1
     uniqueID: 429428711
     locked: 0
   - name: player
     uniqueID: 2732016061
+    locked: 0
+  - name: water
+    uniqueID: 224561557
+    locked: 0
+  - name: waterBrick
+    uniqueID: 1408495821
     locked: 0
