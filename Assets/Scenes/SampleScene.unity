@@ -2024,7 +2024,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -1734989394, guid: 800288b2d3ea6d64ab05de5ebe0d5481, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.34, y: 0.66}
@@ -2041,7 +2041,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 428452426}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -11.49, y: 8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3198,7 +3198,7 @@ Tilemap:
       - {fileID: 782560450, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: -2041407549, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: 1875414733, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 24, y: 23, z: 0}
