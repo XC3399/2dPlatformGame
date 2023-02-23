@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ground
   - water
+  - interctable
   layers:
   - Default
   - TransparentFX
