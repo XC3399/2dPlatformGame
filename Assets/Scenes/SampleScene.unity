@@ -3430,7 +3430,7 @@ Tilemap:
       - {fileID: 782560450, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: -2041407549, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: 1875414733, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
-      m_AnimationSpeed: 5
+      m_AnimationSpeed: 5.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -24, y: 6, z: 0}
@@ -3962,7 +3962,7 @@ Tilemap:
       - {fileID: 782560450, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: -2041407549, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
       - {fileID: 1875414733, guid: 9bf0c22d57ac5bb48a0a66d462d7b830, type: 3}
-      m_AnimationSpeed: 5
+      m_AnimationSpeed: 5.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 25, y: 23, z: 0}
@@ -4496,7 +4496,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763965033}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.376, z: 0.028241403}
+  m_LocalPosition: {x: 0, y: -0.321, z: 0.028241403}
   m_LocalScale: {x: 0.5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4516,7 +4516,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.020718575, y: 0.06560993}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -4527,7 +4527,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.70993614, y: 0.86878014}
   m_EdgeRadius: 0
 --- !u!212 &763965036
 SpriteRenderer:
@@ -6537,7 +6537,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051212647}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.23, y: 8.32, z: 0}
+  m_LocalPosition: {x: -15.23, y: 7.87, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
