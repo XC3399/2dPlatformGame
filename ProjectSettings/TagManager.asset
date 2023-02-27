@@ -17,7 +17,7 @@ TagManager:
   - character
   - tiles
   - background
-  - 
+  - velocity
   - 
   - 
   - 
@@ -53,11 +53,17 @@ TagManager:
   - name: tileset
     uniqueID: 2174831665
     locked: 0
+  - name: grassFloor
+    uniqueID: 3959695175
+    locked: 0
   - name: interactable1
     uniqueID: 429428711
     locked: 0
   - name: player
     uniqueID: 2732016061
+    locked: 0
+  - name: interactable2
+    uniqueID: 61482001
     locked: 0
   - name: water
     uniqueID: 224561557
