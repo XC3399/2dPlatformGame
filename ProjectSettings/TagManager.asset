@@ -56,6 +56,9 @@ TagManager:
   - name: grassFloor
     uniqueID: 3959695175
     locked: 0
+  - name: signs
+    uniqueID: 470698399
+    locked: 0
   - name: interactable1
     uniqueID: 429428711
     locked: 0
@@ -71,6 +74,6 @@ TagManager:
   - name: interactable2
     uniqueID: 61482001
     locked: 0
-  - name: menu
-    uniqueID: 470698399
+  - name: particles
+    uniqueID: 2742994067
     locked: 0
